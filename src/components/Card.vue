@@ -4,7 +4,7 @@
       <div class="flex justify-between items-center">
         <div class="flex flex-col justify-between space-y-1">
           <div class="flex items-center space-x-4">
-            <h3 class="text-lg font-medium">{{title}}</h3>
+            <h3 class="text-lg overflow-ellipsis whitespace-nowrap overflow-x-hidden font-medium">{{title}}</h3>
             <span
               class="
                 px-3
