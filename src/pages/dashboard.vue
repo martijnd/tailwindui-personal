@@ -1,6 +1,6 @@
 <template>
-  <div class="bg-gray-300 grid">
-    test
+  <div class="bg-gray-300 grid w-full min-h-screen grid-cols-2">
+    <Card />
   </div>
 </template>
 
